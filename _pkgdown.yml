@@ -10,6 +10,10 @@ template:
 authors:
   Karissa Whiting:
     href: "https://www.karissawhiting.com/"
+  Mike Curry:
+    href: "https://github.com/michaelcurry1123/"
+  Hannah Fuchs:
+    href: "https://github.com/hfuchs5/"
 
 navbar:
   bg: primary
