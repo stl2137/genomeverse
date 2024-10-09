@@ -1,9 +1,16 @@
 Package: genomeverse
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9001
-Authors@R: 
+Authors@R: c(
     person("Karissa", "Whiting", , "karissa.whiting@gmail.com", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0002-4683-1868"))
+           comment = c(ORCID = "0000-0002-4683-1868")),
+    person("Michael", "Curry", role = "aut",
+           comment = c(ORCID = "0000-0002-0261-4044")),
+    person("Hannah", "Fuchs", role = "aut",
+           comment = c(ORCID = "0000-0003-2426-0096")),
+    person("Axel", "Martin", , "axel.steph.martin@gmail.com", role = "aut"),
+    person("Arshi", "Arora", role = "aut")
+  )
 Description: genomeverse is a collection of R packages that are designed to work together seamlessly to create reproducible clinico-genomic analysis pipelines.
 License: MIT + file LICENSE
 Encoding: UTF-8
